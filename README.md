@@ -31,3 +31,7 @@ This repo consist of small projects/program that I made during my C++ learning j
 **Sept 12, 2026 (Saturday)**
   Learned STL (vector) dynamic memory management and preventing memory leak.
   Created a logic for two sum problem of leetCode and program it and added to two_sum.cpp in Vector folder.
+
+**Sept 13, 2026 (Sunday)**
+  Using the 2D array logic created a tic-tac-toe game in c++.. added it to 2D array folder and simple small project folder.
+
