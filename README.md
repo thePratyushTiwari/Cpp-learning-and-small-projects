@@ -35,3 +35,5 @@ This repo consist of small projects/program that I made during my C++ learning j
 **Sept 13, 2026 (Sunday)**
   Using the 2D array logic created a tic-tac-toe game in c++.. added it to 2D array folder and simple small project folder.
 
+**Sept 15, 2026 (Tuesday)**
+  Learned about binary and grey code and made a 4-bit converter from binary to grey code (binary-to-grey-code.cpp in SimpleSmallProjects folder).
