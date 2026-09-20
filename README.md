@@ -39,3 +39,5 @@ This repo consist of small projects/program that I made during my C++ learning j
   Learned about binary and decimal values and made a program that converts the binary value given by user into decimal values.
   Learned about binary and grey code and made a 4-bit converter from binary to grey code (binary-to-grey-code.cpp in SimpleSmallProjects folder).
 
+**Sept 20, 2026 (Sunday)**
+  Learned about OOPs in C++ and created a Student class code that lets you fill your details check your profile and percentage and change the student details (Student.cpp in OOPs folder).
