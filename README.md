@@ -41,3 +41,6 @@ This repo consist of small projects/program that I made during my C++ learning j
 
 **Sept 20, 2026 (Sunday)**
   Learned about OOPs in C++ and created a Student class code that lets you fill your details check your profile and percentage and change the student details (Student.cpp in OOPs folder).
+
+**Sept 22, 2026 (Tuesday)**
+  Created a logic to convert number into string and show the value (number-to-words.cpp in SimpleSmallProjects folder).
