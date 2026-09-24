@@ -44,3 +44,6 @@ This repo consist of small projects/program that I made during my C++ learning j
 
 **Sept 22, 2026 (Tuesday)**
   Created a logic to convert number into string and show the value (number-to-words.cpp in SimpleSmallProjects folder).
+
+**Sept 24, 2026 (Thursday)**
+  Created logic for removing duplicate elements from a string and coded it (removeDuplicateFromString.cpp in SimpleSmallProjects folder).
