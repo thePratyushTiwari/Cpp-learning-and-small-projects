@@ -47,3 +47,6 @@ This repo consist of small projects/program that I made during my C++ learning j
 
 **Sept 24, 2026 (Thursday)**
   Created logic for removing duplicate elements from a string and coded it (removeDuplicateFromString.cpp in SimpleSmallProjects folder).
+
+**Sept 27, 2026 (Sunday)**
+  Learned about merge sorting in C++ created the code and added to MergeSort.cpp in BasicSortingAlgorithms folder.
