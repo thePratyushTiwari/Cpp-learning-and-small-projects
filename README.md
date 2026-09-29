@@ -51,3 +51,6 @@ This repo consist of small projects/program that I made during my C++ learning j
 **Sept 27, 2026 (Sunday)**
   Learned about merge sorting in C++ created the code and added to MergeSort.cpp in BasicSortingAlgorithms folder.
   Learned about quick sorting in C++ created the code and added to QuickSort.cpp in BasicSortingAlgorithms folder.
+
+**Sept 28, 2026 (Tuesday)**
+  Created logic to implement binary search in a rotated sorted array added to searching_in_rotated_sorted_array.cpp in SimpleSmallProjects folder.
