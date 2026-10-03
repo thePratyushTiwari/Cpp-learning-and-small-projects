@@ -54,3 +54,7 @@ This repo consist of small projects/program that I made during my C++ learning j
 
 **Sept 28, 2026 (Tuesday)**
   Created logic to implement binary search in a rotated sorted array added to searching_in_rotated_sorted_array.cpp in SimpleSmallProjects folder.
+
+**Oct 03, 2026 (Saturday)**
+  Knowing that leetcode plays a major role in DSA.. created a folder for all the problems that I have solved in leetCode.
+  Added N-Queens problem's answer.
