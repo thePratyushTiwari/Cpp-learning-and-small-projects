@@ -58,3 +58,6 @@ This repo consist of small projects/program that I made during my C++ learning j
 **Oct 03, 2026 (Saturday)**
   Knowing that leetcode plays a major role in DSA.. created a folder for all the problems that I have solved in leetCode.
   Added N-Queens problem's answer.
+
+**Oct 04, 2026 (Sunday)**
+  Sudoku is a popular puzzle.. so I coded the logic to solve sudoku (if the answer exists) and added the program to SimpleSmallProjects folder.
