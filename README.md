@@ -61,3 +61,6 @@ This repo consist of small projects/program that I made during my C++ learning j
 
 **Oct 04, 2026 (Sunday)**
   Sudoku is a popular puzzle.. so I coded the logic to solve sudoku (if the answer exists) and added the program to SimpleSmallProjects folder.
+
+**Nov 06, 2026 (Friday)**
+  Learned about heaps and heapSort method, learned its logic and added the code in HeapSort.cpp in BasicSortingAlgorithms folder.
