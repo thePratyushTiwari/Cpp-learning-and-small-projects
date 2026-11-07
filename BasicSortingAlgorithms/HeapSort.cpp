@@ -22,6 +22,11 @@ void heapSort(vector<int>& heap) {
     for(int i = n/2 - 1; i >= 0; i--) {
         heapify(i, heap, n);
     }
+
+    for(int i = n - 1; i >= 0; i--) {
+        swap(heap[0], heap[i]);
+        heapify(0, heap, i);
+    }
 }
 
 int main()
@@ -39,7 +44,7 @@ int main()
 
     heapSort(heap);
 
-    cout << "-----------------------------\nSorted max heap:  ";
+    cout << "-----------------------------\nSorted heap:  ";
     for(int i=0; i<n; i++) {
         cout << heap[i] << ' ';
     }
