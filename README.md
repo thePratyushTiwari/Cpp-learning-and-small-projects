@@ -64,3 +64,6 @@ This repo consist of small projects/program that I made during my C++ learning j
 
 **Nov 06, 2026 (Friday)**
   Learned about heaps and heapSort method, learned its logic and added the code in HeapSort.cpp in BasicSortingAlgorithms folder.
+
+**Nov 24, 2026 (Tuesday)**
+  Coded a string manipulation game, in which player has to match the given string to target string using operations. Added to targetStringGame.cpp in SimpleSmallProjects folder.
